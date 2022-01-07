@@ -17,7 +17,7 @@
     "@vitejs/plugin-react": "^1.1.4",
     "autoprefixer": "^10.4.2",
     "eslint": "^8.6.0",
-    "eslint-config-gojutin": "^0.1.6",
+    "eslint-config-gojutin": "^0.1.7",
     "postcss": "^8.4.5",
     "prettier": "^2.5.1",
     "tailwindcss": "^3.0.12",
