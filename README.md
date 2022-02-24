@@ -4,6 +4,7 @@ Features:
 
 - TypeScript
 - TailwindCSS
+- SEO
 - Website icons / dynamic favicon example
 - Dark mode
 - ESLint
