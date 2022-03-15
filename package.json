@@ -1,5 +1,6 @@
 {
-  "name": "vite-react-tailwind-starter",
+  "name": "vite-react-kit",
+  "description": "A starter project template for building React web apps with Vite and Tailwind.",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -15,18 +16,18 @@
   "devDependencies": {
     "@commitlint/cli": "^16.2.1",
     "@commitlint/config-conventional": "^16.2.1",
-    "@types/react": "^17.0.39",
-    "@types/react-dom": "^17.0.11",
+    "@types/react": "^17.0.40",
+    "@types/react-dom": "^17.0.13",
     "@vitejs/plugin-react": "^1.2.0",
     "autoprefixer": "^10.4.2",
-    "eslint": "^8.9.0",
+    "eslint": "^8.11.0",
     "eslint-config-gojutin": "^0.1.7",
     "husky": "^7.0.4",
-    "postcss": "^8.4.6",
+    "postcss": "^8.4.8",
     "prettier": "^2.5.1",
     "tailwindcss": "^3.0.23",
-    "typescript": "^4.5.5",
-    "vite": "^2.8.4"
+    "typescript": "^4.6.2",
+    "vite": "^2.8.6"
   },
   "commitlint": {
     "extends": [
