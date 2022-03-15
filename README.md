@@ -1,4 +1,6 @@
-# Vite React Tailwind Starter
+# vite-react-kit
+
+A starter project template for building React web apps with Vite and Tailwind.
 
 Features:
 

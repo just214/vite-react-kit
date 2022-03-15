@@ -1,6 +1,7 @@
 {
-  "name": "nextjs-react-tailwind-starter",
-  "short_name": "Next.js App",
+  "name": "vite-react-kit",
+  "short_name": "vite-react-kit",
+  "description": "A starter project template for building React web apps with Vite and Tailwind.",
   "icons": [
     {
       "src": "/icon-192.png",
